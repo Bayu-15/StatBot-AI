@@ -1,0 +1,32 @@
+question,answer
+Apa itu statistika?,"Statistika adalah ilmu yang mempelajari cara mengumpulkan, mengolah, menganalisis, dan menyajikan data untuk pengambilan keputusan."
+Apa itu data?,"Data adalah kumpulan fakta, seperti angka, kata, atau pengamatan, yang digunakan untuk analisis."
+Apa itu populasi dalam statistika?,Populasi adalah keseluruhan objek atau individu yang menjadi perhatian dalam suatu penelitian.
+Apa itu sampel dalam statistika?,Sampel adalah bagian dari populasi yang digunakan untuk mewakili populasi dalam analisis statistik.
+Apa perbedaan antara populasi dan sampel?,"Populasi mencakup seluruh elemen yang diteliti, sedangkan sampel adalah bagian kecil yang mewakili populasi tersebut."
+Apa itu data kuantitatif?,Data kuantitatif adalah data yang berbentuk angka dan dapat dihitung atau diukur.
+Apa itu data kualitatif?,"Data kualitatif adalah data yang berbentuk kategori atau label, bukan angka."
+Apa itu skala pengukuran?,"Skala pengukuran adalah jenis klasifikasi data berdasarkan karakteristiknya, seperti skala nominal, ordinal, interval, dan rasio."
+Apa saja jenis skala pengukuran?,"Jenis skala pengukuran meliputi skala nominal, ordinal, interval, dan rasio."
+Apa itu skala nominal?,Skala nominal adalah skala yang mengklasifikasikan data ke dalam kategori tanpa urutan tertentu.
+Apa itu skala ordinal?,"Skala ordinal adalah skala yang mengklasifikasikan data ke dalam kategori dengan urutan tertentu, namun tanpa jarak yang pasti antar kategori."
+Apa itu skala interval?,"Skala interval adalah skala pengukuran dengan jarak yang sama antar nilai, tetapi tidak memiliki nol mutlak."
+Apa itu skala rasio?,"Skala rasio adalah skala dengan jarak yang sama antar nilai dan memiliki nol mutlak, seperti berat dan tinggi."
+Apa itu distribusi frekuensi?,Distribusi frekuensi adalah penyajian data yang menunjukkan jumlah kemunculan setiap nilai atau kelompok nilai.
+Apa itu rata-rata (mean)?,Rata-rata adalah jumlah seluruh nilai dibagi dengan jumlah data.
+Apa itu median?,Median adalah nilai tengah dari data yang telah diurutkan.
+Apa itu modus?,Modus adalah nilai yang paling sering muncul dalam sekumpulan data.
+Apa itu variansi?,Variansi adalah ukuran sebaran data yang menunjukkan seberapa jauh data menyebar dari rata-ratanya.
+Apa itu standar deviasi?,Standar deviasi adalah akar kuadrat dari variansi dan menunjukkan seberapa tersebar data dari rata-ratanya.
+Apa itu outlier?,Outlier adalah nilai yang jauh berbeda dari sebagian besar data lainnya.
+Apa itu distribusi normal?,Distribusi normal adalah distribusi data simetris berbentuk lonceng yang sering ditemukan dalam statistik.
+Apa itu histogram?,Histogram adalah grafik batang yang menunjukkan distribusi frekuensi data numerik.
+Apa itu diagram batang?,Diagram batang adalah grafik yang menampilkan data kategori menggunakan batang.
+Apa itu korelasi?,"Korelasi adalah hubungan antara dua variabel yang bisa positif, negatif, atau tidak ada hubungan sama sekali."
+Apa itu koefisien korelasi?,"Koefisien korelasi mengukur kekuatan dan arah hubungan antara dua variabel, biasanya dengan simbol r."
+Apa itu regresi linear sederhana?,Regresi linear sederhana adalah metode untuk memodelkan hubungan antara satu variabel bebas dan satu variabel terikat.
+Apa itu regresi linear berganda?,Regresi linear berganda adalah metode regresi yang melibatkan lebih dari satu variabel bebas.
+Apa itu uji hipotesis?,Uji hipotesis adalah prosedur untuk menguji asumsi atau klaim tentang populasi berdasarkan data sampel.
+Apa itu p-value?,P-value adalah probabilitas mendapatkan hasil seperti data yang diamati jika hipotesis nol benar.
+Apa itu kesalahan tipe I?,Kesalahan tipe I terjadi ketika kita menolak hipotesis nol padahal hipotesis nol benar.
+Apa itu kesalahan tipe II?,Kesalahan tipe II terjadi ketika kita gagal menolak hipotesis nol padahal hipotesis nol salah.
